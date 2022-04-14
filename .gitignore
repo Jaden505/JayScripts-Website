@@ -13,5 +13,8 @@ dist/
 build/
 *.egg-info/
 
+.DS_Store/
+.vscode/
+
 .DS_Store
 .vscode
